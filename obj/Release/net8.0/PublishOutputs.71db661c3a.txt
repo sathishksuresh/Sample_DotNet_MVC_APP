@@ -1,0 +1,7 @@
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/secops
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/appsettings.json
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/secops.dll
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/secops.deps.json
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/secops.runtimeconfig.json
+/Users/sathishsuresh/Projects/secops/bin/Release/net8.0/publish/secops.pdb
